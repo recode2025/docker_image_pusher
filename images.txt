@@ -1,3 +1,4 @@
 anheyu/pro:latest
 postgres:18
 redis:latest
+ouislam/uptime-kuma
